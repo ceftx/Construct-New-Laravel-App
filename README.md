@@ -8,6 +8,8 @@ Cada una puede ser instalada a través de los manejadores de paquetes.
 Una vez instaladas de dependencias, faltan realizar una configuraciones,
 antes de poder iniciar con el desarrollo de una aplicación en Laravel.
 
+## PHP
+
 Se debe retocar el archivo php.ini, para las distribuciones basadas en archlinux,
 se encuentra en la siguiente ruta ```/etc/php/php.ini```, dentro de dicho archivo
 hay que realizar la busqueda de las extensiones, con cualquier editor de código de
@@ -61,3 +63,7 @@ extension=zip
 Procede con la activación, descomenta las lineas que sean de intereses.
 
 NOTA: cada extensión que habilites, se debe complementar con la descarga de un paquete correspondiente, Ejemplo: ```pdo_pgsql```, debes descargar e instalar el paquete ```php-pgsql```.
+
+Con esto PHP, se encuentra operativo.
+
+## Mariadb
