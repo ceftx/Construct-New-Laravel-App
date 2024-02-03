@@ -1,2 +1,5 @@
 # contruct-New-Laravel-App
-steps to mount a new or existing app
+Dependencias:
+ - [PHP](https://www.php.net/downloads.php)
+ - [Composer](https://getcomposer.org/)
+ - [Mariadb]
