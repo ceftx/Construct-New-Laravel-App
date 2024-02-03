@@ -110,6 +110,7 @@ Se procede a buscar, en la raiz del proyecto, el archivo llamado ```.env```, par
 
 Disponga en la variable 'DB_DATABASE', el nombre de la base de datos que creo en el paso anterior.
 
-Luego se procede a correr en la terminal, dentro de la raiz del directorio de trabajo, el comando ```php artisan migrate```, para crear las tablas de la base de datos, a través de las migraciones.
+Luego se procede a correr en la terminal, dentro de la raiz del directorio de trabajo, el comando 
+```php artisan migrate```, para crear las tablas de la base de datos, a través de las migraciones.
 
-Por ultimo, basta con ejecutar ```php artisan serve´´´, para servir de manera local la aplicación, a través del puerto 8000, en la ruta de localhost (127.0.0.1:8000).
+Por ultimo, basta con ejecutar ```php artisan serve```, para servir de manera local la aplicación, a través del puerto 8000, en la ruta de localhost (127.0.0.1:8000).
