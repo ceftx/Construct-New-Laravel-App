@@ -1,4 +1,4 @@
-# contruct-New-Laravel-App
+# Construct-New-Laravel-App
 Dependencias:
  - [PHP](https://www.php.net/downloads.php)
  - [Composer](https://getcomposer.org/)
@@ -10,7 +10,7 @@ Programas a emplear:
  - [Neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
 
 Cada una puede ser instalada a través de los manejadores de paquetes.
-Una vez instaladas de dependencias, faltan realizar una configuraciones,
+Una vez instaladas las dependencias, faltan realizar una configuraciones,
 antes de poder iniciar con el desarrollo de una aplicación en Laravel.
 
 ## PHP
