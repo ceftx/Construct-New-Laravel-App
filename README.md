@@ -73,7 +73,7 @@ Con esto PHP, se encuentra operativo.
 
 ## Mariadb
 
-Para sistemas basados en archlinux, adjunto este [Link](https://www.linuxcapable.com/how-to-install-mariadb-on-arch-linux/](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04)), luego de realizar la instalarción correspondiente, hace falta un comando para poder emplear mariadb, ```sudo mariadb-secure-installation```, se encuentra en el link adjunto, con esta utilidad se maneja el primer inicio del servicio Mariadb, se puede cambiar la contraseña del usuario root. En el link adjunto hay una Salida por pantalla de ejemplo, para la configuración de Mariadb. 
+Para sistemas basados en archlinux, adjunto este [Link](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04)), luego de realizar la instalarción correspondiente, hace falta un comando para poder emplear mariadb, ```sudo mariadb-secure-installation```, se encuentra en el link adjunto, con esta utilidad se maneja el primer inicio del servicio Mariadb, se puede cambiar la contraseña del usuario root. En el link adjunto hay una Salida por pantalla de ejemplo, para la configuración de Mariadb. 
 
 Nota: se deben guardar las credenciales cambiadas en este paso.
 
