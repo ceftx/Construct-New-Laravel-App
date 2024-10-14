@@ -93,7 +93,7 @@ Para la conexión basta con hacer click en el boton (+), y rellenar los campos p
 
 ![image](https://github.com/ceftx/contruct-New-Laravel-App/assets/65095491/9136b4a7-5926-4051-9338-f57c993e55f3)
 
-Si, no se modificó la contraseña del usuario root, esta por default esta vacia, para mariadb, que es el gestor de base de datos tomado como ejemplo. Observese que debajo del nombre de conexión se disponene los distintos gestores.
+Si, no se modificó la contraseña del usuario root, esta por default esta vacia, para mysql, que es el gestor de base de datos tomado como ejemplo. Observese que debajo del nombre de conexión se disponene los distintos gestores.
 
 ![image](https://github.com/ceftx/contruct-New-Laravel-App/assets/65095491/db0672f5-047a-4124-8f84-cc1ac5e623c7)
 
